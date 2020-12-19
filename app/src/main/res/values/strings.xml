@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="bookstore_logo">BookStore logo</string>
+    <string-array name="options">
+        <item>书籍</item>
+        <item>杂志</item>
+        <item>报纸</item>
+    </string-array>
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Your favorite books:</string>
+    <string name="name">lx181002230</string>
+    <string-array name="uer_type">
+        <item>新用户</item>
+        <item>老用户</item>
+    </string-array>
+</resources>
